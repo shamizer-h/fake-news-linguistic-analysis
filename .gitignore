@@ -1,0 +1,6 @@
+.DS_Store
+Fake.csv
+True.csv
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
